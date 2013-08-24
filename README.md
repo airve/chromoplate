@@ -1,4 +1,4 @@
 chromoplate
 ===========
 
-Chromosome Boilerplate
+[Chromosome](../../../chromosome) Boilerplate
